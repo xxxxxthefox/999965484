@@ -1,0 +1,5 @@
+flask==2.3.4
+flask-cors==3.1.2
+aiohttp==3.8.5
+cloudscraper==1.2.72
+beautifulsoup4==4.12.2
