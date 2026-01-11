@@ -1,7 +1,7 @@
 aiohttp
-ms4
+asyncio
 fake-useragent
 flask
 flask-cors
+ms4
 requests
-beautifulsoup4
