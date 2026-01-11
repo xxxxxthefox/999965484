@@ -1,10 +1,4 @@
+Flask
+Flask-Cors
 aiohttp
-asyncio
 fake-useragent
-ms4
-python-telegram-bot
-telebot
-flask
-flask-cors
-requests
-beautifulsoup4
