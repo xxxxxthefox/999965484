@@ -1,4 +1,7 @@
-Flask
-Flask-Cors
 aiohttp
+ms4
 fake-useragent
+flask
+flask-cors
+requests
+beautifulsoup4
